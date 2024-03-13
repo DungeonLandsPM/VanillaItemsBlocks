@@ -1,0 +1,5 @@
+name: VanillaItemsBlocks
+version: 0.0.1-indev
+
+api: 5.0.0
+main: dungeonlands\vanillaitemsblocks\VanillaLoader
